@@ -27,7 +27,7 @@ This organization hosts the analysis code, web interfaces, and documentation too
 ### 🔗 Resources
 
 * **Main Website:** [https://l1t-muon-dpg-plots.web.cern.ch/]
-* **Issue Tracking:** [https://twiki.cern.ch/twiki/bin/viewauth/CMS/L1KnownIssues#Muons].
+* **Issue Tracking:** [https://twiki.cern.ch/twiki/bin/viewauth/CMS/L1KnownIssues#Muons]
 
 <!--
 
