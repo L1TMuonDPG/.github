@@ -1,4 +1,33 @@
-## Hi there 👋
+# L1TMuonDPG
+
+Welcome to the GitHub organization for the **L1TMuonDPG**. We focus on the performance, calibration, and data efficiency studies for the Level 1 Muon Trigger system.
+
+This organization hosts the analysis code, web interfaces, and documentation tools used by the group to monitor and validate muon trigger performance.
+
+---
+
+### 📂 Key Repositories
+
+#### 📊 Analysis & Performance Studies
+* **[PromptMuons](./PromptMuons)**
+  Analysis scripts focused on **prompt muons**, specifically targeting data efficiency calculations and charge misidentification studies.
+
+* **[Prefiring](./Prefiring)**
+  Tools and scripts for analyzing **prefiring probabilities** associated with prompt muons.
+
+* **[DisplacedMuons](./DisplacedMuons)**
+  Dedicated analysis scripts for calculating and monitoring data efficiency for **displaced muons**.
+
+#### 🌐 Web Interface
+* **[Website](./Website)**
+  Source code for the L1T MuonDPG website. Built as a customized instance of **php-plots**, featuring tailored modifications to the interface and functionality to visualize DPG results.
+
+---
+
+### 🔗 Resources
+
+* **Main Website:** [https://l1t-muon-dpg-plots.web.cern.ch/]
+* **Issue Tracking:** [https://twiki.cern.ch/twiki/bin/viewauth/CMS/L1KnownIssues#Muons].
 
 <!--
 
