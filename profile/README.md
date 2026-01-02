@@ -9,17 +9,17 @@ This organization hosts the analysis code, web interfaces, and documentation too
 ### 📂 Key Repositories
 
 #### 📊 Analysis & Performance Studies
-* **[PromptMuons](./PromptMuons)**
+* **[PromptMuons](https://github.com/L1TMuonDPG/PromptMuons)**
   Analysis scripts focused on **prompt muons**, specifically targeting data efficiency calculations and charge misidentification studies.
 
-* **[Prefiring](./Prefiring)**
+* **[Prefiring](https://github.com/L1TMuonDPG/Prefiring)**
   Tools and scripts for analyzing **prefiring probabilities** associated with prompt muons.
 
-* **[DisplacedMuons](./DisplacedMuons)**
+* **[DisplacedMuons](https://github.com/L1TMuonDPG/DisplacedMuons)**
   Dedicated analysis scripts for calculating and monitoring data efficiency for **displaced muons**.
 
 #### 🌐 Web Interface
-* **[Website](./Website)**
+* **[Website](https://github.com/L1TMuonDPG/Website)**
   Source code for the L1T MuonDPG website. Built as a customized instance of **php-plots**, featuring tailored modifications to the interface and functionality to visualize DPG results.
 
 ---
